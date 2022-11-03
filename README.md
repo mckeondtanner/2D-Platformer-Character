@@ -6,6 +6,12 @@ A somewhat-generic character (including animations and state machine) appropriat
 
 Built using Godot 3.5
 
+Large Level
+
+Aesthetic Look
+
+Background Music
+
 ## References
 
 The player sprite is adaptated from [MV Platformer Male](https://opengameart.org/content/mv-platformer-male-32x64) by MoikMellah
